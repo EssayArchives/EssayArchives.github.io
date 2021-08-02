@@ -3,6 +3,9 @@ layout: posts
 title:  "World War II"
 date:   2021-07-29 18:47:55 -0400
 categories: jekyll update
+tags:
+  - World War
+  - content
 ---
 
 
