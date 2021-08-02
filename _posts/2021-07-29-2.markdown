@@ -1,8 +1,14 @@
 ---
 layout: posts
-title:  "Essay 2"
+title:  "Cuban Missile Crisis"
 date:   2021-07-29 18:47:55 -0400
 categories: jekyll update
+tags:
+  - content
+  - css
+  - edge case
+  - lists
+  - markup
 ---
 
 
