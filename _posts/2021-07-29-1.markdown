@@ -11,4 +11,4 @@ tags:
 ---
 
 
-<iframe src="https://drive.google.com/file/d/1yNgVOuJ8tb37bk3e_fhTsB8Y5btMaI4H/preview" width="700" height="1000" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1yNgVOuJ8tb37bk3e_fhTsB8Y5btMaI4H/preview" width="900" height="900" allow="autoplay"></iframe>
