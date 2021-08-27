@@ -1,6 +1,6 @@
 ---
 layout: posts
-title:  "What factors influenced J Edgar Hoover to describe The Black Panthers as "The greatest threat to the internal security of the country."?"
+title:  "What factors influenced J Edgar Hoover to describe The Black Panthers as 'The greatest threat to the internal security of the country.'?"
 date:   2021-07-29 18:47:55 -0400
 categories: jekyll update
 tags:
