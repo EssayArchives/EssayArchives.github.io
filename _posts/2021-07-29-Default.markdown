@@ -8,4 +8,4 @@ tags:
 ---
 
 
-<iframe src="" width="70%" height="90%" allow="autoplay"></iframe>
+<iframe src="" width="900" height="900" allow="autoplay"></iframe>
